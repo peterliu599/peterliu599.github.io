@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peter Liu"
+title                    : "Bolun (Peter) Liu"
 title_separator          : "-"
-name                     : &name "Peter Liu"
+name                     : &name "Bolun (Peter) Liu"
 description              : &description "Undergraduate student, University of Washington"
 url                      : https://peterliu599.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
